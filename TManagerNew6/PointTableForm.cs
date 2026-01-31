@@ -17,7 +17,9 @@ namespace TManagerNew6
 
             LoadPoint();
         }
-
+        /// <summary>
+        /// //
+        /// </summary>
         void LoadPoint()
         {
             DataTable dt = DB.GetData(
@@ -29,3 +31,4 @@ namespace TManagerNew6
         }
     }
 }
+//test git
